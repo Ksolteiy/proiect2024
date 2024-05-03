@@ -98,7 +98,7 @@ section {
 }
 
 #index {
-    background: linear-gradient(#2b045a88, #00000086), url('/images/5.jpg');
+    background: linear-gradient(#2b045a88, #00000086), url('images/5.jpg');
     background-size: cover;
     min-height: 100vh;
 }
